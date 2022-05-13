@@ -1,0 +1,21 @@
+field	description
+source	data source
+day	day of reproductive observation
+month	month of reproductive observation
+year	year of reproductive observation
+sex	individual sex
+lifestage	age class (standardized to single vocabulary)
+TL	total length of body (if present)
+TV	tail length (if present)
+HF	hindfoot length (if present)	
+massing	mass in grams
+testes_state	observed position of testes (standardized to single vocabulary)
+testes_max_length	greatest length of testis
+photoperiod	daily number of daylight hours
+temp	monthly average temperature (weighted to observation date)
+prec	monthly average precipitation (weighted to observation date)
+julianday	day of year of reproductive observation
+ecoregion	North American Level I ecoregion
+seasonality	annual temperature seasonality at place of observation
+lifestage_cor	age class (standardized to single vocabulary)
+nffd	annual number of frost-free days at place of observation
