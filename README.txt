@@ -8,4 +8,4 @@ PEMA_male_data.csv - male reproductive traits, body size, and associated climate
 PEMA_phenology_final_dataframe.csv - female reproductive traits, body size, and associated climate variables used in McLean and Guralnick (2021)
 
 # R CODE
-R code used in the male paper, largely for hierarchical GAMs and generalized linear mixed models
+R code used in the male paper, largely hierarchical GAMs and generalized linear mixed models, model comparison, and plotting
